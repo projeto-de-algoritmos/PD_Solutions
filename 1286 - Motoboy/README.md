@@ -1,5 +1,5 @@
 # Motoboy
-*Questão 1218 | Beecrowd*   
+*Questão 1286 | Beecrowd*   
 *[Link para o problema](https://www.beecrowd.com.br/repository/UOJ_1286.html)*
 
 ### Descrição
