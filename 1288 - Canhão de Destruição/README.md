@@ -21,3 +21,5 @@ Se o dano total das cargas carregadas for maior ou igual à resistência do cast
 |3<br>3<br>500 5<br>300 4<br>30 2<br>10<br>680<br>5<br>500 5<br>300 4<br>100 1<br>120 1<br>200 3<br>12<br>1120<br>5<br>500 5<br>300 4<br>100 1<br>120 1<br>200 3<br>12<br>1020|Missao completada com sucesso<br>Falha na missao<br>Missao completada com sucesso|
 
 ### Resultado
+
+![image](https://user-images.githubusercontent.com/33001620/216485594-64ea1c71-d15d-430f-a7fc-c90d3a295dfc.png)
