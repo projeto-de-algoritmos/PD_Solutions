@@ -23,3 +23,4 @@ Para cada caso de teste de entrada deve ser impresso um valor inteiro que determ
 |6<br>10<br>15 5<br>23 4<br>21 2<br>16 4<br>19 5<br>18 2<br>2<br>15<br>47 12<br>39 4<br>5<br>23<br>43 9<br>4 1<br>17 2<br>13 5<br>54 17<br>6<br>7<br>14 4<br>21 2<br>26 7<br>18 4<br>30 13<br>10 2<br>0|62 min.<br>47 min.<br>77 min.<br>39 min.|
 
 ### Resultado
+![image](https://user-images.githubusercontent.com/33001620/216482598-c5671021-089a-4551-b7c0-cd1bddf6dc19.png)
