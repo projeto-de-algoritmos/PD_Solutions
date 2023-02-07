@@ -1,4 +1,4 @@
-# Motoboy
+# Árvore de Natal
 *Questão 2026 | Beecrowd*   
 *[Link para o problema](https://www.beecrowd.com.br/repository/UOJ_2026.html)*
 
